@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-  int x = 9;
+  int x = 11;
   int array[] = {0,1,2};
   if (x==10){
       x--;
